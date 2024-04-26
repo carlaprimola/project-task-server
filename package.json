@@ -1,13 +1,11 @@
 {
-  "name": "project-task-server",
+  "name": "project-app",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "dev": "nodemon server/index.js",
-    "start": "node index.js",
-    "build": "npm install && npm install --prefix client"
+    "dev": "nodemon server/index.js"  
   },
   "keywords": [],
   "author": "",
